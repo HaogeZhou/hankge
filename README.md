@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hankge
-- 👀 I’m interested in Python and deep learning.
-- 🌱 I’m currently learning EE.
+- 👀 I’m interested in SLAM.
+- 🌱 I’m currently a master student in UCR.
 - 📫 Contact me at hgzhoucn@gmail.com.
 
 <!---
